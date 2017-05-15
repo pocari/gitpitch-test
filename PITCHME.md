@@ -15,7 +15,7 @@ Hello, world
 aaa <b>using html tag</b> bbb
 ---
 
-- Java |
+- Java
 - JavaScript |
 - Kotlin |
 - Go |
@@ -23,7 +23,7 @@ aaa <b>using html tag</b> bbb
 
 ---
 
-- X_Java |
+- X_Java
 - X_JavaScript |
 - X_Kotlin |
 - X_Go |
