@@ -26,18 +26,22 @@ aaa <b>using html tag</b> bbb
 2 column test
 
 <div id="left">
-- Java
-- JavaScript
-- Kotlin
-- Go
-- Scala
+  <script type="text/template">
+  - Java
+  - JavaScript
+  - Kotlin
+  - Go
+  - Scala
+  </script>
 </div>
 
 <div id="right">
-- X_Java
-- X_JavaScript
-- X_Kotlin
-- X_Go
-- X_Scala
+  <script type="text/template">
+  - X_Java
+  - X_JavaScript
+  - X_Kotlin
+  - X_Go
+  - X_Scala
+  </script>
 </div>
 
