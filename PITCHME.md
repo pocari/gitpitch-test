@@ -56,5 +56,3 @@ jobs:
 - Go         |
 - Scala      |
 
----
-
