@@ -19,7 +19,7 @@ Hello, world
 | a-3 | b-3 | c-3 |
 
 ---
-## second page
+# second page
 
 ```yml
 version: 2
