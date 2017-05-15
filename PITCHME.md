@@ -10,24 +10,27 @@ Hello, world
   - b-2
 
 ---
+
 # second page
 
 aaa <b>using html tag</b> bbb
+
 ---
 
 - Java
 - JavaScript |
-- Kotlin |
-- Go |
-- Scala |
+- Kotlin     |
+- Go         |
+- Scala      |
 
 ---
 
 - X_Java
 - X_JavaScript |
-- X_Kotlin |
-- X_Go |
-- X_Scala |
+- X_Kotlin     |
+- X_Go         |
+- X_Scala      |
+
 
 ---
 
