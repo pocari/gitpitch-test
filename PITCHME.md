@@ -19,6 +19,8 @@ Hello, world
 | a-3 | b-3 | c-3 |
 
 ---
+
+
 ```yml
 version: 2
 jobs:
@@ -45,6 +47,7 @@ jobs:
           paths:
             - "~/caches/docker"
 ```
+
 ---
 
 xyz!
