@@ -56,3 +56,10 @@ jobs:
 - Go         <!-- .element: class="fragment" -->
 - Scala      <!-- .element: class="fragment" -->
 
+---
+
+- Java
+- JavaScript |
+- Kotlin     |
+- Go         |
+- Scala      |
