@@ -20,7 +20,6 @@ Hello, world
 
 ---
 
-
 ```yml
 version: 2
 jobs:
